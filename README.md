@@ -16,7 +16,7 @@ Additional README details can be found [here](https://github.com/PrimeAcademy/re
 ## Base Mode
 -[x] connect the router to the server.js 
 -[x]put any imports we need into the app.jsx
--[]Use state we need item name, quantity, and unit 
+-[] Use state we need item name, quantity, and unit 
 -[] get and post app.jsx
 -[]Use effect to create a get function to show the grocery list
 -[] create a form for name, quantity, and unit for the items within the app.jsx function return
