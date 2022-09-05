@@ -1,6 +1,6 @@
 import React from 'react';
-
 import Header from '../Header/Header.jsx'
+import {useState, useEffect} from 'react'
 import './App.css';
 
 
@@ -9,7 +9,7 @@ function App() {
         <div className="App">
             <Header />
             <main>
-                <p>Under Construction...</p>
+                <p>Hello</p>
             </main>
         </div>
     );
