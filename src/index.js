@@ -5,3 +5,5 @@ import App from './components/App/App';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
+console.log('Steven was here');
+
